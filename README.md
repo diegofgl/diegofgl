@@ -1,9 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=808080&height-120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=808080&size=35&center=true&vCenter=true&width=1000&lines=Olá!;+Me+chamo+Diego+Rodrigues;Sou+Desenvolvedor+iOS)](https://git.io/typing-svg)
+# 👋 Olá! Eu sou Diego Rodrigues
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-rodrigues-a51b34226/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](diegorodrigues.fgl@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegorodrigues.fgl@gmail.com)
+
+## Sobre Mim
+
+Oi! Eu sou Diego Rodrigues, um Desenvolvedor iOS apaixonado por criar experiências incríveis. Atualmente, estou explorando o vasto mundo do desenvolvimento mobile, principalmente com foco em iOS e Swift.
+
+## Estatísticas do GitHub
 
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegofgl&show_icons=true&theme=dracula)
 
@@ -16,4 +20,3 @@
   <img aling="center" alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
   <img aling="center" alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
 </div>
-
