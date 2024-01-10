@@ -3,9 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-rodrigues-a51b34226/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegorodrigues.fgl@gmail.com)
 
-## Sobre Mim
-
-Oi! Eu sou Diego Rodrigues, um Desenvolvedor iOS apaixonado por criar experiências incríveis. Atualmente, estou explorando o vasto mundo do desenvolvimento mobile, principalmente com foco em iOS e Swift.
+## Desenvolvedor iOS | Swift | SwiftUI | Flutter
 
 ## Estatísticas do GitHub
 
